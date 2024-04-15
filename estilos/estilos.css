@@ -1,0 +1,30 @@
+.fondobody{
+    background-color: antiquewhite;
+}
+.icon{
+    text-align: center;
+    color: rgb(121, 231, 11);
+    font-size: 100px;
+}
+.wifi{
+    text-align: right;
+    color: rgb(25, 0, 255);
+    font-size: 150px; 
+}
+.home{
+    text-align: end;
+    color: rgb(255, 0, 0);
+}
+.face{
+    text-align:left ;
+    color: rgb(0, 255, 42);
+    font-size: 20px;  
+}
+.check{
+
+    text-align: right;
+    color: rgb(25, 0, 255);
+    font-size: 20px;  
+} 
+    
+
